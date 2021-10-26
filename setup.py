@@ -26,11 +26,11 @@ dependencies = [
     "websockets==8.1.0",  # For use in wallet RPC and electron UI
     "click==7.1.2",  # For the CLI
     "dnspython==2.1.0",  # Query DNS seeds
-    "watchdog==2.1.3",  # Filesystem event watching - watches keyring.yaml
+    "watchdog==2.1.6",  # Filesystem event watching - watches keyring.yaml
 ]
 
 upnp_dependencies = [
-    "miniupnpc==2.2.2",  # Allows users to open ports on their router
+    "miniupnpc==2.2.3",  # Allows users to open ports on their router
 ]
 
 dev_dependencies = [
