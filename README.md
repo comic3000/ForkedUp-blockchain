@@ -1,7 +1,7 @@
 # ForkedUp-blockchain
 
 
-Crypto currencies waste an enourmous amount of energy and effort on non-productive purposes. No more! This a parody cryptocurrency built from the Better at Everything Else That Stable protocol. So that Chia farmers can also be Beet Farmers
+Crypto currencies waste an enourmous amount of energy and effort on non-humorous purposes. No more! This a parody cryptocurrency built from the Better at Everything Else That Stable protocol. So that Chia farmers can also be Beet Farmers
 
 Fact. You will need Python 3.7 or higher
 
